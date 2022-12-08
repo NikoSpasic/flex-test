@@ -1,0 +1,7 @@
+{
+  "aliases": ["dosing-flex", "nsp-flex"],
+  "copy-from-recipe": {
+    "src/": "%SRC_DIR%/"
+  },
+  "version_aliases": ["1.0.0"]
+}
