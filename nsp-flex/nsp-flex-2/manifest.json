@@ -1,5 +1,5 @@
 {
-  "aliases": ["dosing-flex", "nsp-flex"],
+  "aliases": ["dosing-flex-2", "nsp-flex-2"],
   "copy-from-recipe": {
     "src/": "%SRC_DIR%/"
   },
